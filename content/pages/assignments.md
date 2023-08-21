@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments, including
+  a program trade report, program trade analysis, in-class discussion, and discussion
+  essay.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
