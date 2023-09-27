@@ -38,7 +38,8 @@
   "course_title": "Media in Cultural Context",
   "course_description": "This course explores the international trade in television text, considering the ways in which 'foreign' programs find places within 'domestic' schedules. Looking at the life television texts maintain outside of their home market, this course examines questions of globalization and national cultures of production and reception. Students will be introduced to a range of positions about the nature of international textual trade, including economic arguments about the structuring of international markets and ethnographic studies about the role imported content plays in the formation of hybrid national identities. Students will be encouraged to consider the role American content is made to play in non-American markets.\n",
   "department_numbers": [
-    "21L"
+    "21L",
+    "CMS-W"
   ],
   "extra_course_numbers": "CMS.871",
   "primary_course_number": "21L.715",
@@ -49,6 +50,7 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "58e31ff3-1d39-4e3b-a567-4f1df571af53",
+  "site_uid": "03a5f24f-6ce0-45b2-9ca4-e1240161e8ad",
+  "site_short_id": "21l.715-spring-2007",
   "title": "Course Metadata"
 }

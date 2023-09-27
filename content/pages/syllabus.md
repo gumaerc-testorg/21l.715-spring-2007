@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course objectives, requirements, grading, plagiarism, recommended citation, and
+  a calendar of lecture topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -116,7 +119,7 @@ In-class participation
 
 {{< tableclose >}}
 
-Please see [assignments]({{< baseurl >}}/pages/assignments) for more detailed instructions for the written work.
+Please see {{% resource_link 99ed002e-f14e-d32f-1a7d-693ba8652a43 "assignments" %}} for more detailed instructions for the written work.
 
 ### In-Class Participation
 
