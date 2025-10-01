@@ -145,7 +145,7 @@ Olson, Scott Robert. "Hollywood Planet: Global Media and the Competitive Advanta
 
 ———. "The Transparent Text." In _Hollywood Planet: Global Media and the Competitive Advantage of Narrative Transparency_. Mahwah, NJ: Erlbaum, 1999, pp. 87-113. ISBN: 9780805832303.
 
-Green, Joshua. "Narrative Transparency and the Form of Teen Drama." In [_Acts of Translation: Young People, American Teen Dramas, and Australian Television 1992-2004_](https://core.ac.uk/display/10884842). Doctoral Thesis, Queensland University of Technology, 2005, pp. 88-147.
+Green, Joshua. "Narrative Transparency and the Form of Teen Drama." In {{% resource_link "9aff8ce9-d3b1-497c-a5ac-a08c779577a3" "_Acts of Translation: Young People, American Teen Dramas, and Australian Television 1992-2004_" %}}. Doctoral Thesis, Queensland University of Technology, 2005, pp. 88-147.
 
 ### Recommended Reading
 
@@ -169,7 +169,7 @@ Havens, Timothy. "Scheduling International Television Imports." In _Global Telev
 
 Ellis, John. "Scheduling: The Last Creative Act in Television?" _Media, Culture and Society_ 22, no. 1 (2000): 25-38.
 
-Green, Joshua. "Network Ten and the Creation of a Youth Broadcaster." In [_Acts of Translation: Young People, American Teen Dramas, and Australian Television 1992-2004_](https://core.ac.uk/display/10884842). Doctoral Thesis, Queensland University of Technology, 2005, pp. 148-212.
+Green, Joshua. "Network Ten and the Creation of a Youth Broadcaster." In {{% resource_link "9aff8ce9-d3b1-497c-a5ac-a08c779577a3" "_Acts of Translation: Young People, American Teen Dramas, and Australian Television 1992-2004_" %}}. Doctoral Thesis, Queensland University of Technology, 2005, pp. 148-212.
 
 
 {{< tdclose >}}
@@ -203,13 +203,13 @@ Taking texts elsewhere - translation, adaptation, and subtitling
 {{< tdopen >}}
 
 
-Ferrari, Chiara. "[The Nanny in Italy: Language, Nationalism and Cultural Identity](http://www.academia.edu/186879/The_Nanny_in_Italy_Language_Nationalism_and_Cultural_Identity)." _Global Media Journal_ 3, no. 4 (Spring 2004).
+Ferrari, Chiara. "{{% resource_link "939f9b36-66e1-428a-9ac7-a2a8d428a37d" "The Nanny in Italy: Language, Nationalism and Cultural Identity" %}}." _Global Media Journal_ 3, no. 4 (Spring 2004).
 
 Kilborn, Richard. "Speak My Language." _Media, Culture and Society_ 15, no. 4 (1993): 641-660.
 
 ### Research Exercise
 
-Find scholarly work discussing the [American adaptation of _The Office_](http://www.nbc.com/The_Office/).
+Find scholarly work discussing the {{% resource_link "4f7e928e-49a0-432c-b851-c3e8666a3157" "American adaptation of _The Office_" %}}.
 
 
 {{< tdclose >}}
